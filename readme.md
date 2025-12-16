@@ -7,3 +7,5 @@ https://www.ddn.cn
 replace to
 https://www.duduniu.cn
 ```
+
+嘟嘟牛导出按钮异常，故自导出。仅学习使用，请勿非法使用。
